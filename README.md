@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lastimosa.ti@gmail.com**
 
-- 📄 Visit my website [https://tiffanycodes.me](https://tiffanycodes.me)
+- 📄 Visit my website **[https://tiffanycodes.me](https://tiffanycodes.me)**
 
 - 🐶 Fun fact: I have a corgi named Gizmo. During the summer, you can find us at the park, but on most rainy days you can find us at home playing chase and tug-of-war.
 
