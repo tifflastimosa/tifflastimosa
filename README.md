@@ -9,7 +9,8 @@ About Me
 <b>System Design & Cloud:</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Microservices, Message Queues, Load Balancers, APIs, Caching, Distributed Systems, AWS, EC2, EBS, S3, ELB, RDS, Route53, IAM, Lambda, VPC <br>
 <b>Other Technologies:</b> <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Git, GitHub, Docker, Jenkins (CI/CD), Node.js, Gradle, Maven, JUnit, Postman, RabbitMQ, Redis, MongoDB, MySQL, APIs, RESTful Web Services, Android Studio, IntelliJ, VS Code
+&nbsp;&nbsp;&nbsp;&nbsp; Git, GitHub, Docker, Jenkins (CI/CD), Node.js, Gradle, Maven, JUnit, Postman, RabbitMQ, Redis, MongoDB, MySQL, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; APIs, RESTful Web Services, Android Studio, IntelliJ, VS Code <br>
 
 
 🎓 I am a former Paralegal, now pursuing a Software Engineering in Seattle, WA. Currently, pursuing a Computer Science Master's Degree at 
