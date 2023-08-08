@@ -6,8 +6,10 @@ About Me
 💻&nbsp; <b>Technical Skills</b><br>
 <b>Languages, Frameworks, & Libraries:</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Java, JavaScript (ES6), C, Python, SQL, HTML5, CSS, React, Bootstrap, Material UI, Spring Boot, Spring, Apache Tomcat, J2EE, Express <br>
+<br>
 <b>System Design & Cloud:</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Microservices, Message Queues, Load Balancers, APIs, Caching, Distributed Systems, AWS, EC2, EBS, S3, ELB, RDS, Route53, IAM, Lambda, VPC <br>
+<br>
 <b>Other Technologies:</b> <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Git, GitHub, Docker, Jenkins (CI/CD), Node.js, Gradle, Maven, JUnit, Postman, RabbitMQ, Redis, MongoDB, MySQL, APIs, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; RESTful Web Services, Android Studio, IntelliJ, VS Code <br>
